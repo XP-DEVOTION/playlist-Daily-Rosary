@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:app="https://apphub.dev/rss/app"
+     xmlns:dev="https://apphub.dev/rss/developer"
+     xmlns:social="https://apphub.dev/rss/social">
+
+  <channel>
+    <title>Daily Rosary — App Test Feed</title>
+    <link>https://dailyrosary.cf/</link>
+    <description>Beta testing information for the Daily Rosary app.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 May 2026 09:00:00 EST</lastBuildDate>
+
+    <!-- Developer Metadata -->
+    <dev:developer>
+      <dev:name>Eric Kouassi</dev:name>
+      <dev:email>hello@erickouassi.com</dev:email>
+      <dev:website>https://dailyrosary.cf/</dev:website>
+
+      <social:links>
+        <social:reddit>https://reddit.com/r/dailyrosary</social:reddit>
+        <social:facebook>https://facebook.com/dailyrosary</social:facebook>
+        <social:github>https://github.com/XP-DEVOTION</social:github>
+        <social:discord>https://discord.gg/dailyrosary</social:discord>
+        <social:twitter>https://twitter.com/dailyrosary</social:twitter>
+        <social:youtube>https://youtube.com/@dailyrosary</social:youtube>
+      </social:links>
+    </dev:developer>
+
+    <!-- App Item -->
+    <item>
+      <title>Daily Rosary</title>
+      <guid isPermaLink="false">com.erickouassi.dailyrosary</guid>
+      <pubDate>Sat, 16 May 2026 09:00:00 EST</pubDate>
+
+      <!-- App Metadata -->
+      <app:platform>Android</app:platform>
+      <app:version>1.0.0</app:version>
+      <app:isGame>false</app:isGame>
+
+      <!-- Testing Status -->
+      <app:status>closed-testing</app:status>
+      <!-- allowed:
+           closed-testing
+           open-testing
+           marketplace
+           invite-only
+           internal
+           pre-registration
+      -->
+
+      <!-- Availability -->
+      <app:languages>
+        <app:language>English</app:language>
+        <app:language>French</app:language>
+      </app:languages>
+
+      <app:countries>
+        <app:country>United States</app:country>
+        <app:country>Canada</app:country>
+        <app:country>France</app:country>
+      </app:countries>
+
+      <!-- Requirements -->
+      <app:requiresAccount>false</app:requiresAccount>
+
+      <!-- Testing Links -->
+      <app:testLink>https://play.google.com/apps/testing/com.erickouassi.dailyrosary</app:testLink>
+      <app:groupLink>https://groups.google.com/g/daily-rosary-beta-testers</app:groupLink>
+
+      <description>
+        A peaceful Rosary prayer app seeking Android testers for a 14‑day install requirement.
+      </description>
+
+      <app:requirements>
+        <app:requirement>Android phone</app:requirement>
+        <app:requirement>Google account</app:requirement>
+        <app:requirement>Keep installed 14 days</app:requirement>
+      </app:requirements>
+
+    </item>
+
+  </channel>
+</rss>
