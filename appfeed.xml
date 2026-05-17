@@ -33,7 +33,7 @@
       <guid isPermaLink="false">com.erickouassi.dailyrosary</guid>
 
       <!-- REQUIRED: used for daysInTesting -->
-      <pubDate>Mon, 04 May 2026 09:00:00 EST</pubDate>
+      <pubDate>Mon, 04 May 2026 09:00:00 -0500</pubDate>
 
       <!-- App Metadata -->
       <app:platform>Android</app:platform>
