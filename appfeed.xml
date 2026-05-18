@@ -53,8 +53,8 @@
       -->
       <app:status>open-testing</app:status>
 
-      <!-- Testing Duration (your backend uses this) -->
-      <app:testingDuration>14</app:testingDuration>
+      <!-- Testing Duration -->
+      <app:testingDuration>25</app:testingDuration>
 
       <!-- Testing Links -->
       <app:testLink>https://play.google.com/apps/testing/com.erickouassi.dailyrosary</app:testLink>
@@ -72,7 +72,7 @@
       <app:requirements>
         <app:requirement>Android phone</app:requirement>
         <app:requirement>Google account</app:requirement>
-        <app:requirement>Keep installed 14 days</app:requirement>
+        <app:requirement>Keep installed 14 days +</app:requirement>
       </app:requirements>
 
       <!-- Languages -->
