@@ -99,7 +99,7 @@
       <pubDate>Fri, 15 May 2026 09:00:00 -0500</pubDate>
 
       <!-- App Metadata -->
-      <app:platform>Web</app:platform>
+      <app:platform>Android</app:platform>
       <app:version>1.0.0</app:version>
 
       <!-- Testing Status -->
