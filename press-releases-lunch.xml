@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+    <title>Daily Rosary Press Room</title>
+    <link>https://dailyrosary.cf/press</link>
+    <description>Official press releases and announcements for the Daily Rosary app.</description>
+    <language>en-us</language>
+    <pubDate>Wed, 10 Jun 2026 09:00:00 EST</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 09:00:00 EST</lastBuildDate>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <generator>Handcrafted XML</generator>
+    <managingEditor>hello@erickouassi.com</managingEditor>
+    <webMaster>hello@erickouassi.com</webMaster>
+    
+    <atom:link href="https://dailyrosary.cf/press/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title>Daily Rosary App Launches on Google Play — A Simple, Peaceful Way to Pray the Rosary Every Day</title>
+        <link>https://dailyrosary.cf/press/releases/app-launch-2026</link>
+        
+        <guid isPermaLink="true">https://dailyrosary.cf/press/releases/app-launch-2026</guid>
+        
+        <pubDate>Wed, 10 Jun 2026 09:00:00 EST</pubDate>
+        
+        <description>
+            <![CDATA[Inspired by a personal mission to help his mother overcome her daily prayer struggles, independent developer Eric Kouassi has launched the English version of Daily Rosary on the Google Play Store—a clean, distraction-free prayer companion.]]>
+        </description>
+        
+        <content:encoded>
+            <![CDATA[
+            <p><strong>FOR IMMEDIATE RELEASE</strong></p>
+            
+            <p><strong>QUEENS, NY — June 2026</strong> — Independent developer Eric Kouassi announces the official launch of the English version of the <strong>Daily Rosary</strong> app on the Google Play Store, offering a beautifully simple, structured, and accessible way for Catholics to pray the Rosary daily.</p>
+            
+            <p>A separate French version, titled <em>Le Rosaire</em>, is available as its own standalone PWA at: <a href="https://le-rosaire.dailyrosary.cf/">https://le-rosaire.dailyrosary.cf/</a>. Its Android release is currently completing Closed Testing before public launch.</p>
+            
+            <p>The English Daily Rosary app is also available as a fast, lightweight web app at: <a href="https://dailyrosary.cf/">https://dailyrosary.cf/</a></p>
+            
+            <h3>Built from a Personal Mission</h3>
+            <p>The inspiration behind Daily Rosary hits close to home. The app was originally born out of a personal desire to help the developer's mother, who was struggling to keep up with her daily Rosary prayers using traditional or overly complex methods. To solve this, the application was crafted from the ground up to strip away digital clutter and provide a focused, gentle interface that guides users through their prayers naturally.</p>
+            
+            <h3>A Modern Tool for an Ancient Prayer</h3>
+            <p>Daily Rosary provides a clear, step‑by‑step prayer flow, daily mysteries, and an interface designed for calm, focus, and ease of use. The English and French versions are independent apps, each crafted to serve its language community with clarity and simplicity.</p>
+            <p>Both versions work seamlessly offline, making them ideal for commuters, travelers, and anyone seeking a quiet moment of prayer.</p>
+            <p>A small, unobtrusive banner at the bottom of the screen supports other Catholic creators through CatholicAdNet, helping sustain free Catholic content across the web without interrupting prayer.</p>
+            
+            <h3>Powered by a Dedicated Rosary API</h3>
+            <p>Daily Rosary and Le Rosaire are both powered by the developer’s own Rosary API: <a href="https://therosaryapi.cf/">https://therosaryapi.cf/</a>. This API provides structured, reliable, and fast access to the daily mysteries and prayer content, ensuring accuracy, consistency, and long‑term maintainability across all platforms.</p>
+            
+            <blockquote>"I wanted to create a Rosary app that feels peaceful, simple, and accessible — something you can open anytime and immediately begin praying without distractions," said Eric Kouassi, creator of Daily Rosary. "Seeing my mother struggle with her daily prayers inspired me to build this. Using a PWA foundation, PWABuilder, and my Rosary API allowed me to deliver something lightweight, fast, and easy to maintain for the long term."</blockquote>
+            
+            <h3>Background & Development Story</h3>
+            <p>Daily Rosary was originally built as a Progressive Web App (PWA) and later packaged for the Google Play Store using PWABuilder, a Microsoft tool that converts PWAs into installable Android apps. This ensures the app remains fast, lightweight, and easy to update across all devices.</p>
+            <ul>
+                <li>The English version is now fully launched on Google Play.</li>
+                <li>The French version, Le Rosaire, is a separate PWA with its own design and content, and its Android release is currently in Closed Testing.</li>
+                <li>This dual‑app approach ensures that each language community receives a dedicated, optimized experience.</li>
+            </ul>
+            
+            <h3>Availability</h3>
+            <ul>
+                <li><strong>Google Play (English):</strong> <a href="https://play.google.com/store/apps/details?id=com.erickouassi.dailyrosary">Download on Google Play</a></li>
+                <li><strong>Web App (English PWA):</strong> <a href="https://dailyrosary.cf/">dailyrosary.cf</a></li>
+                <li><strong>French PWA (Le Rosaire):</strong> <a href="https://le-rosaire.dailyrosary.cf/">le-rosaire.dailyrosary.cf</a></li>
+                <li><strong>Rosary API:</strong> <a href="https://therosaryapi.cf/">therosaryapi.cf</a></li>
+            </ul>
+            
+            <hr />
+            <p><strong>About Eric Kouassi:</strong><br />
+            Eric Kouassi is an independent developer focused on building clean, accessible, prayer‑centered digital tools. His work emphasizes simplicity, privacy, and daily spiritual support through modern web technologies such as PWAs, PWABuilder, and API‑driven content systems.</p>
+            
+            <p><strong>Media Contact:</strong><br />
+            Name: Eric Kouassi<br />
+            Email: hello@erickouassi.com<br />
+            Location: Queens, NY</p>
+            ]]>
+        </content:encoded>
+        
+        <enclosure url="https://dailyrosary.cf/press/images/app-launch-banner.jpg" length="124500" type="image/jpeg" />
+        
+        <category>Lifestyle</category>
+        <category>Mobile Apps</category>
+    </item>
+</channel>
+</rss>
